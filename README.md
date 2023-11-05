@@ -1,8 +1,7 @@
 # Node, SSR, TypeScript, Jsx, Htmx
 
-This is an experiment. I would like to continue using JSX as a template engine in SSR, but replace ReactJs with htmx and possibly use it later as a top layer in the front-end. This way, I can make a distinction between frontend and backend.
-
-SSR like in NextJs, but using htmx.
+> This is an experiment. I would like to continue using JSX as a template engine in SSR, but replace ReactJs with htmx and possibly use it later as a top layer in the front-end. This way, I can make a distinction between frontend and backend.
+> SSR like in NextJs, but using htmx.
 
 Checkout:
 
@@ -12,6 +11,8 @@ $ cd ./ssr-tsx-htmx
 $ pnpm install
 $ pnpm run dev
 ```
+
+Go to http://127.0.0.1:3000
 
 Manual:
 
