@@ -4,6 +4,17 @@ This is an experiment. I would like to continue using JSX as a template engine i
 
 SSR like in NextJs, but using htmx.
 
+Checkout:
+
+```cli
+$ git clone https://github.com/imi187/ssr-tsx-htmx.git
+$ cd ./ssr-tsx-htmx
+$ pnpm install
+$ pnpm run dev
+```
+
+Manual:
+
 ```cli
 $ pnpm init
 $ pnpm install --save-dev @types/express @types/node nodemon typescript npm-run-all
